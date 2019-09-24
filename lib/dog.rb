@@ -10,4 +10,4 @@ end
 
 lucky = Dog.new 
 lucky.name = "Luck" 
-@my_dogs_name.bark 
+ 
