@@ -13,6 +13,6 @@ class Dog
 end 
 
 lucky = Dog.new 
-lucky.name = "Luck" 
+lucky.name = "Lucky" 
  
 lucky.bark
