@@ -15,3 +15,4 @@ end
 lucky = Dog.new 
 lucky.name = "Luck" 
  
+lucky.bark
