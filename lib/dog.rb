@@ -12,5 +12,5 @@ lucky = Dog.new
 lucky.name = "Lucky" 
 
 lucky.bark
-puts "woof"
+
 
