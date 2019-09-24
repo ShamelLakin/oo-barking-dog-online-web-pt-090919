@@ -9,7 +9,5 @@ class Dog
 end 
 
 lucky = Dog.new 
-lucky.name = "Lucky" 
-
-
-lucky.bark puts bark
+lucky.name = "Luck" 
+@my_dogs_name.bark 
